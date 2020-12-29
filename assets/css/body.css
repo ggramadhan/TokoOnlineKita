@@ -1,3 +1,4 @@
+
 .desc{
     max-width: 500px;
 }
@@ -39,6 +40,26 @@
     color: #ff496e;
 }
 
+.judul-section{
+    text-align: center;
+    font-weight: 700;
+}
+.col-md-4{
+ text-align: center;
+ 
+}
+.col-md-4 p{
+    text-align: justify;
+    font-weight: 400;
+}
+.col-md-3{
+ text-align: center;
+ 
+}
+.col-md-3 p{
+    text-align: justify;
+    font-weight: 400;
+}
 
 @media screen and (max-width:600px){
     .img{
